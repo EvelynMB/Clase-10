@@ -66,3 +66,10 @@ const edadDelUsuario = prompt("ingrese su edad")
 console.log(edadDelUsuario)
 //alert
 alert("ALERTA")
+
+//operaciones de comparación arrojan un booleano
+console.log("10"===10)
+
+//typeof
+//nos permite saber con que tipo de dato estamos trabajando
+console.log(typeof "10")

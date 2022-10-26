@@ -21,3 +21,7 @@ console.log (nombre)
 //9
 console.log (imparMenorACien * numeroCinco - 100)
 //10
+console.log(imparMenorACien === nombreDelUsuario)
+//o creo que debe ser con typeof
+console.log(typeof imparMenorACien)
+console.log(typeof nombreDelUsuario)
